@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://frontendexplorer-temp.github.io/Blog-preview-card-main/))
+- Live Site URL: [Add live site URL here](https://frontendexplorer-temp.github.io/Blog-preview-card-main/)
 
 ## My process
 
