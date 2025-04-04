@@ -1,18 +1,18 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Continued development](#continued-development)
+- [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -24,23 +24,14 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 Users should be able to:
 
-- See hover and focus states for all interactive elements on the page
+- See hover and focus states for all interactive elements on the page.
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![](./preview.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -50,61 +41,48 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- [Figtree](https://fonts.google.com/specimen/Figtree) (Font Family)
+- CSS Grid
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+In this project, I learned how to:
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+- Effectively use CSS custom properties for color and layout consistency.
+- Implement Flexbox and CSS Grid for a responsive and adaptable layout.
+- Design with a mobile-first approach, ensuring responsiveness from small to large screen sizes.
+- Enhance the user experience by adding interactive hover and focus states to clickable elements.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+In future projects, I aim to focus on:
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+- **JavaScript integration**: Adding interactivity such as dynamic content, animations, or even creating a blog-like functionality (e.g., a comment section or like/dislike buttons) will help enhance my skills.
+- **Accessibility**: Ensuring that the page is fully accessible, including testing with screen readers and making the design keyboard-navigable, to meet WCAG (Web Content Accessibility Guidelines) standards.
+- **Performance optimization**: Learning techniques for reducing page load times, such as optimizing images and using lazy loading for resources, is an area I want to explore further.
+- **Advanced CSS features**: I want to dive deeper into CSS Grid, CSS Variables, and CSS animations to add more complex layouts and fluid design systems in future projects.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [CSS Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This guide was incredibly helpful in understanding how to create layouts using Flexbox. It made it much easier to center elements and control their alignment.
+- [MDN Web Docs: CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) - I used this resource to understand how to implement CSS Grid for better layout control. It helped me create a clean, organized, and responsive design.
+- [Google Fonts: Figtree](https://fonts.google.com/specimen/Figtree) - This font was a great choice for the design, and Google Fonts made it super easy to integrate with just a single line of code.
+- [Frontend Mentor's Design Resources](https://www.frontendmentor.io/resources) - The resources provided by Frontend Mentor helped guide my approach to making the project more professional and polished.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+### Author
 
-## Author
+- GitHub Profile - [FrontEndExplorer-Temp](https://github.com/FrontEndExplorer-Temp)
+- Frontend Mentor - [@FrontEndExplorer-Temp](https://www.frontendmentor.io/profile/FrontEndExplorer-Temp)
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+Feel free to follow me on GitHub and Frontend Mentor for more projects. You can also check out my Twitter for design and coding tips!
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+### Acknowledgments
 
-## Acknowledgments
+I would like to acknowledge:
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+- **Frontend Mentor** for providing the challenge and supporting my learning process with their detailed and clear requirements.
+- **The open-source community** for providing fantastic tutorials, guides, and resources that helped me enhance my understanding of CSS Flexbox, Grid, and layout techniques.
+- **My peers and mentors** for their feedback, suggestions, and encouragement throughout the course of the project.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Thanks to everyone who contributed indirectly to my learning—I'm excited to apply these new skills to my next challenge!
